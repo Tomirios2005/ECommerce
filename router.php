@@ -12,6 +12,7 @@ switch ($params[0]) {
         $controller->showArticles();
         break;
     
+    
     default:
         # code...
         break;
